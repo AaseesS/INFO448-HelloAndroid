@@ -1,4 +1,12 @@
 # UW Homework: Hello Android
+
+Developer tools: Bug Report 
+Bug report allows you to find and fix any bugs within your app, it provides data such as logs, 
+stack traces and more diagnostic information that can be used to help identify any issues that need solving.
+I believe this feature will be very useful for this class, and I plan to use with my group to help us solve any issues we are having. 
+
+
+
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
 * run Android Studio
